@@ -24,9 +24,13 @@
 
 ### <p align="center"> *My story is a testament to the power of passion and determination to shape your own destiny, even in the face of drastic career changes.* </p>
 
-### <p align="center"> *In a decisive turning point in my life, I embraced the opportunity to reinvent myself by joining the 42 Lausanne school. This decision marked the start of an intense and exciting adventure, where I aimed to turn my fascination with IT into a rewarding career. Driven by the desire to master the complex workings of this constantly evolving field, I chose to focus on the essential foundations before embarking on more specialized specializations such as cybersecurity and artificial intelligence.* </p>
+### <p align="center"> *In a decisive turning point in my life, I embraced the opportunity to reinvent myself by joining the 42 Lausanne school. This decision marked the start of an intense and exciting adventure, where I aimed to turn my fascination with IT into a rewarding career.* </p>
 
-### <p align="center"> *As I took my first steps through the school hallways, I was struck by a mixture of excitement and apprehension. The admissions tests were a stimulating challenge, but also served to confirm my passion and my aptitude for this new universe. Initial doubts quickly dissipated in the face of the clarity of my emerging vocation. Every line of code written, every problem solved, brought me deep satisfaction and reinforced my belief that I was on the right path.* </p>
+### <p align="center"> *Driven by the desire to master the complex workings of this constantly evolving field, I chose to focus on the essential foundations before embarking on more specialized specializations such as cybersecurity and artificial intelligence.* </p>
+
+### <p align="center"> *As I took my first steps through the school hallways, I was struck by a mixture of excitement and apprehension. The admissions tests were a stimulating challenge, but also served to confirm my passion and my aptitude for this new universe.* </p> 
+
+### <p align="center"> *Initial doubts quickly dissipated in the face of the clarity of my emerging vocation. Every line of code written, every problem solved, brought me deep satisfaction and reinforced my belief that I was on the right path.* </p>
 
 ### <p align="center"> *As I progress through the core curriculum, my interest in cybersecurity and artificial intelligence remains ardent, but I understand the importance of building a solid foundation in the fundamental disciplines of programming and software development. I know that this knowledge will be the cornerstone of my future specialized explorations.* </p>
 
