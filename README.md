@@ -1,4 +1,4 @@
-# <p align="center"> ![image](https://github.com/ChrstphrChevalier/ChrstphrChevalier/assets/146819291/076f0bc4-88ca-4e20-8221-e82bc3f7f594) </p>
+# <p align="center"> ![image](https://github.com/ChrstphrChevalier/ChrstphrChevalier/assets/146819291/1908456c-cb53-44dd-8077-7adc9675f516) </p>
 
 ##### <p align="center"> *At 31 years old, I embody the essence of a rich and diverse culinary career, spanning a period of 13 years.* </p>
 
