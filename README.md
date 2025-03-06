@@ -1,6 +1,6 @@
 # <p align="center"> ![image](https://github.com/ChrstphrChevalier/ChrstphrChevalier/assets/146819291/1908456c-cb53-44dd-8077-7adc9675f516) </p>
 
-##### <p align="center"> *At 31 years old, I embody the essence of a rich and diverse culinary career, spanning a period of 13 years.* </p>
+##### <p align="center"> *At 32 years old, I embody the essence of a rich and diverse culinary career, spanning a period of 13 years.* </p>
 
 ##### <p align="center"> *My journey has seen me move from the effervescent kitchens of fast food restaurants to the sophisticated elegance of Michelin-starred restaurants.* </p>
 
