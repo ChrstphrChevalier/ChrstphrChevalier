@@ -1,4 +1,4 @@
-# <p align="center"> ![image](https://github.com/ChrstphrChevalier/ChrstphrChevalier/assets/146819291/1908456c-cb53-44dd-8077-7adc9675f516) </p>
+# <p align="center"> ![image](https://github.com/user-attachments/assets/782415c2-5823-41b8-b971-3d77c5f70693) </p>
 
 ##### <p align="center"> *I'm a recent graduate passionate about IT and technology, recently certified as an AWS Cloud Practitioner and Microsoft Azure AZ-900. My training at École 42, combined with my experience in development, cloud, and infrastructure, has allowed me to build a solid foundation of technical skills while cultivating a hands-on and autonomous approach to challenges. Always motivated to learn and adapt, I'm looking for new opportunities to continue growing in a dynamic and stimulating environment.* </p>
 
