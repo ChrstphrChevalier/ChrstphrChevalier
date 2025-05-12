@@ -166,13 +166,14 @@ Documentation claire via `README.md`.<br><br>
 🛠️ Compétences en cours... (Day82...)
 
  *"Avec les 100 Days of Code, je suis entrain d'acquérir une maîtrise parfaite du langage Python, me préparant ainsi à aborder sereinement les formations avancées en Data Science et Machine Learning."*
-
- ---
  
 </div>
 
+##
+
+## <p align="center">🔥 Contact & Liens importants 🔥</p>
+
 <div align="center">
-  <h3>🔥 Contact & Liens importants 🔥</h3>
   <p>
     <a href="mailto:chrstphr.chevalier@gmail.com">chrstphr.chevalier@gmail.com</a><br><br>
     <a href="https://www.linkedin.com/in/christopher-chevalier-21bab7297" target="_blank" rel="noopener noreferrer">LinkedIn</a><br><br>
@@ -180,4 +181,4 @@ Documentation claire via `README.md`.<br><br>
   </p>
 </div>
 
-##
+---
