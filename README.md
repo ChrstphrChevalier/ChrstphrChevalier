@@ -161,7 +161,7 @@ Documentation claire via `README.md`.<br><br>
 ---
 
 ### 🐍 <a href="https://github.com/ChrstphrChevalier/100DaysOfCode-Python" target="_blank">100DaysOfCode-Python</a>  
-➡️ *100 projets en programmation Python — De Débutant à Professionnel*
+➡️ *100 projets réalisés en programmation Python — De Débutant à Professionnel*
 
 🛠️ Compétences en cours... (Day82...)
 
