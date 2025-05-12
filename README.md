@@ -154,23 +154,19 @@ Documentation claire via `README.md`.<br><br>
 **Azure Policies & Blueprints** : Gouvernance et conformité avec les politiques Azure et les blueprints.<br><br>
 
 💼 **Support Plans & Documentation**<br>
-**Azure Support Plans** : Gestion des plans de support Azure, SLA, suivi de la santé des services, Azure Advisor.<br>
-
-##
+**Azure Support Plans** : Gestion des plans de support Azure, SLA, suivi de la santé des services, Azure Advisor.<br><br>
 
 *"Les certifications Cloud, quant à elles, m'ont offert une vision complète de l'infrastructure cloud et de son fonctionnement global."*<br>
 
-##
+---
 
 ### 🐍 <a href="https://github.com/ChrstphrChevalier/100DaysOfCode-Python" target="_blank">100DaysOfCode-Python</a>  
 ➡️ *100 projets en programmation Python — De Débutant à Professionnel*
 
 🛠️ Compétences en cours... (Day82...)
 
-##
-
  *"Avec les 100 Days of Code, j'ai acquis une maîtrise parfaite du langage Python, me préparant ainsi à aborder sereinement les formations avancées en Data Science et Machine Learning."*
 
- ##
+ ---
  
 </div>
