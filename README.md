@@ -2,7 +2,7 @@
 
 ### <p align="center"> CHEVALIER Christopher </p>
 
-#### <p align="center"> *"Une soif insatiable de connaissance, une vision résolument définie, et la détermination de construire chaque jour un peu plus."* </p>
+#### <p align="center"> *"Une soif insatiable de savoir, une vision résolument définie, et la détermination de construire chaque jour un peu plus."* </p>
 
 ##
 
