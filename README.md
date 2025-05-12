@@ -32,11 +32,8 @@
 
 <div align="center">
   
-<br>*Chaque lien dirige vers un aperçu détaillé des formations qui ont marqué des étapes clés de mon parcours. Ces projets illustrent non seulement les compétences acquises, mais aussi la manière dont chaque expérience m'a permis de comprendre et d'appréhender mon environnement technologique.*<br>
-
-*L'école 42 m'a ouvert la voie à l'informatique, me permettant de connaître et maîtriser mon environnement de manière progressive. Les certifications Cloud, quant à elles, m'ont offert une vision complète de l'infrastructure cloud et de son fonctionnement global. Enfin, avec les 100 Days of Code, j'ai acquis une maîtrise parfaite du langage Python, me préparant ainsi à aborder sereinement les formations avancées en Data Science et Machine Learning.*
-
-*Chaque projet représente une étape décisive dans cette évolution, une fois l'ensemble des formations terminées, le parcours prend tout son sens et démontre la cohérence de mes compétences.*<br><br>
+<br>*Chaque lien dirige vers un aperçu détaillé des formations qui ont marqué des étapes clés de mon parcours.*<br>
+*Ces projets illustrent non seulement les compétences acquises, mais aussi la manière dont chaque expérience m'a permis de comprendre et d'appréhender mon environnement technologique.*<br><br>
 
 ### 🧱 <a href="https://github.com/ChrstphrChevalier/42-Introduction-Programmation-C" target="_blank">42-introduction-programmation-C</a>  
 ➡️ *Piscine 42 — Apprentissage intensif de la programmation en C*
@@ -107,7 +104,9 @@ Documentation claire via `README.md`.<br><br>
 **Docker Networking** : Configuration des réseaux Docker, gestion des volumes et services.<br>
 **Tests et validation** : Création de tests unitaires, validation des fonctionnalités.<br><br>
 
-##
+*"L'école 42 a été le catalyseur de mon parcours en informatique, me permettant de découvrir et maîtriser mon environnement de manière progressive et structurée."*
+
+---
 
 ### ☁️ <a href="https://github.com/ChrstphrChevalier/AWS-Cloud-Certifications" target="_blank">AWS-Cloud-Certifications</a>  
 ➡️ *Certification AWS Cloud Practitioner — Fondamentaux du Cloud AWS*
@@ -155,13 +154,23 @@ Documentation claire via `README.md`.<br><br>
 **Azure Policies & Blueprints** : Gouvernance et conformité avec les politiques Azure et les blueprints.<br><br>
 
 💼 **Support Plans & Documentation**<br>
-**Azure Support Plans** : Gestion des plans de support Azure, SLA, suivi de la santé des services, Azure Advisor.<br><br>
+**Azure Support Plans** : Gestion des plans de support Azure, SLA, suivi de la santé des services, Azure Advisor.<br>
+
+##
+
+*"Les certifications Cloud, quant à elles, m'ont offert une vision complète de l'infrastructure cloud et de son fonctionnement global."*<br>
 
 ##
 
 ### 🐍 <a href="https://github.com/ChrstphrChevalier/100DaysOfCode-Python" target="_blank">100DaysOfCode-Python</a>  
-➡️ *100 jours de code Python — De débutant à professionnel*
+➡️ *100 projets en programmation Python — De Débutant à Professionnel*
 
 🛠️ Compétences en cours... (Day82...)
 
+##
+
+ *"Avec les 100 Days of Code, j'ai acquis une maîtrise parfaite du langage Python, me préparant ainsi à aborder sereinement les formations avancées en Data Science et Machine Learning."*
+
+ ##
+ 
 </div>
