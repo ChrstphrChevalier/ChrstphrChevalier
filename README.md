@@ -1,10 +1,8 @@
 # <p align="center"> ![image](https://github.com/user-attachments/assets/17006355-345e-47c1-bd78-6530111a7857) </p>
 
-### <p align="center"> CHEVALIER Christopher </p>
+#### <p align="center"> CHEVALIER Christopher </p>
 
-#### <p align="center"> *"Une soif insatiable de savoir, une vision résolument définie, et la détermination de construire chaque jour un peu plus."* </p>
-
-##
+##### <p align="center"> *"Une soif insatiable de savoir, une vision résolument définie, et la détermination de construire chaque jour un peu plus."* </p>
 
 ## <p align="center">👤 À Propos de Moi 👤</p>
 
