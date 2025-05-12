@@ -172,7 +172,7 @@ Documentation claire via `README.md`.<br><br>
 </div>
 
 <div align="center">
-  <h3>Contact & Liens importants</h3>
+  <h3>🔥 Contact & Liens importants 🔥</h3>
   <p>
     <a href="mailto:chrstphr.chevalier@gmail.com">chrstphr.chevalier@gmail.com</a><br><br>
     <a href="https://www.linkedin.com/in/christopher-chevalier-21bab7297" target="_blank" rel="noopener noreferrer">LinkedIn</a><br><br>
