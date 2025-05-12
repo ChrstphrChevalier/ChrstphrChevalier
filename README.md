@@ -6,7 +6,7 @@
 
 ##
 
-## <p align="center">À propos de moi</p>
+## <p align="center">👤 À Propos de Moi 👤</p>
 
 <p align="center">
   Animé par une passion profonde pour la technologie et un engagement constant vers l’excellence,  
