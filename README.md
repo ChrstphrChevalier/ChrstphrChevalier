@@ -165,16 +165,19 @@ Documentation claire via `README.md`.<br><br>
 
 🛠️ Compétences en cours... (Day82...)
 
- *"Avec les 100 Days of Code, j'ai acquis une maîtrise parfaite du langage Python, me préparant ainsi à aborder sereinement les formations avancées en Data Science et Machine Learning."*
+ *"Avec les 100 Days of Code, je suis entrain d'acquérir une maîtrise parfaite du langage Python, me préparant ainsi à aborder sereinement les formations avancées en Data Science et Machine Learning."*
 
  ---
  
 </div>
 
-<h3 align="center">📬 Contact & Liens importants</h3>
-<p align="center">
-  📧 <a href="mailto:chrstphr.chevalier@gmail.com">Email</a><br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20"/>
-  <a href="https://www.linkedin.com/in/christopher-chevalier-21bab7297" target="_blank" rel="noopener noreferrer">LinkedIn</a><br><br>
-  <em>💬 Je suis ouvert aux opportunités, collaborations ou échanges autour de la Tech, du Cloud, de la Data et du Machine Learning.<br> N'hésitez pas à me contacter !</em>
-</p>
+<div align="center">
+  <h3>Contact & Liens importants</h3>
+  <p>
+    <a href="mailto:chrstphr.chevalier@gmail.com">chrstphr.chevalier@gmail.com</a><br><br>
+    <a href="https://www.linkedin.com/in/christopher-chevalier-21bab7297" target="_blank" rel="noopener noreferrer">LinkedIn</a><br><br>
+    <em>💬 Je suis ouvert aux opportunités, collaborations ou échanges autour de la Tech, du Cloud, de la Data et du Machine Learning.<br>N'hésitez pas à me contacter !</em>
+  </p>
+</div>
+
+##
