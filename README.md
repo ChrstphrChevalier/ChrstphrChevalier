@@ -28,7 +28,7 @@
 
 ##
 
-## <p align="center"> 🛠️ Compétences Acquises</p>
+## <p align="center"> 🛠️ Compétences Acquises 🛠️</p>
 
 <div align="center">
   
