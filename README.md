@@ -26,3 +26,71 @@
   et devenir un professionnel de confiance, technique et engagé.
 </p>
 
+##
+
+## <p align="center">Compétences techniques</p>
+
+<div align="center">
+
+*Chaque lien mène à un README complet listant les compétences acquises, les technologies utilisées et les projets réalisés.*
+*Ces dépôts illustrent ma progression en développement logiciel, cloud computing, architecture système et data engineering.*
+
+
+### 🧱 <a href="https://github.com/ChrstphrChevalier/42-Introduction-Programmation-C" target="_blank">42-introduction-programmation-C</a>  
+➡️ *Piscine 42 — Apprentissage intensif de la programmation en C*
+
+🛠️ Compétences :
+Langage C : variables, types, conditions, boucles
+Fonctions, gestion mémoire (malloc/free), structures
+Manipulation de chaînes, pointeurs, arithmétique mémoire
+Récursivité, logique algorithmique, Makefiles
+Respect strict des normes (Norminette)
+
+---
+
+### 🧠 <a href="https://github.com/ChrstphrChevalier/42-Digital-Technology-Architect" target="_blank">42-Digital-Technologie-Architect</a>  
+➡️ *Tronc commun 42 — Architecture logicielle et technologies numériques*
+
+🛠️ Compétences :
+Développement système avancé (C/C++)
+Shell scripting (Zsh/Bash), gestion des processus
+Réseaux : sockets, TCP/IP, DNS
+Web : NGINX, PHP-FPM, WordPress, MariaDB
+Docker : containers, réseaux, volumes, redémarrage auto
+TLS/SSL, supervision, gestion projet Git
+
+---
+
+### ☁️ <a href="https://github.com/ChrstphrChevalier/AWS-Cloud-Certifications" target="_blank">AWS-Cloud-Certifications</a>  
+➡️ *Certification AWS Cloud Practitioner — Fondamentaux du Cloud AWS*
+
+🛠️ Compétences :
+Services : EC2, S3, RDS, Lambda, CloudFront, IAM, CloudWatch
+Concepts : haute dispo, scalabilité, élasticité, global infra
+Sécurité : IAM, responsabilité partagée
+Économie Cloud : billing, cost optimization, support plans
+
+---
+
+### ☁️ <a href="https://github.com/ChrstphrChevalier/Microsoft-Azure-Cloud-Certifications" target="_blank">Microsoft-Azure-cloud-certifications</a>  
+➡️ *Certification AZ-900 — Notions fondamentales Azure*
+
+🛠️ Compétences :
+Cloud : IaaS, PaaS, SaaS, public/privé/hybride
+Services Azure : VM, Blob Storage, Azure SQL, AD (Entra ID)
+Sécurité : Defender, gouvernance, compliance
+Gestion des coûts, politique de ressources, blueprints
+
+---
+
+### 🐍 <a href="https://github.com/ChrstphrChevalier/100DaysOfCode-Python" target="_blank">100DaysOfCode-Python</a>  
+➡️ *100 jours de code Python — De débutant à professionnel*
+
+🛠️ Compétences :
+Python natif, POO, fichiers, erreurs, modules
+Interfaces (Tkinter), web scraping (BS4/Selenium)
+APIs & JSON, automatisation
+BDD SQLite, Flask, HTML/CSS
+Projets : débutants → intermédiaires → avancés → professionnels (dès jour 82)
+
+</div>
