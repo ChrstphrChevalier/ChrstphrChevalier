@@ -170,3 +170,6 @@ Documentation claire via `README.md`.<br><br>
  ---
  
 </div>
+
+<p align="center">📬 Contact & Liens importants</p>
+<p align="center"> 📧 <strong>Email :</strong> <a href="mailto:chrstphr.chevalier@gmail.com">chrstphr.chevalier@gmail.com</a> <br><br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20"/> <strong>LinkedIn :</strong> <a href="https://www.linkedin.com/in/christopher-chevalier-21bab7297" target="_blank">christopher-chevalier-21bab7297</a> <br><br> <em>Je suis ouvert aux opportunités, collaborations ou échanges autour de la Tech, du Cloud, de la Data et du Machine Learning.</em> </p>
