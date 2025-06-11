@@ -168,14 +168,14 @@ Documentation claire via `README.md`.<br><br>
 
 💡 **Compétences consolidées au fil du challenge** :
 
-Développement **full-stack** avec Flask, SQLAlchemy, et Bootstrap
-Manipulation et visualisation de **données** avec Pandas, Matplotlib, Seaborn, Plotly
-Modélisation en **Machine Learning** avec scikit-learn, clustering, classification supervisée
-Création de **bots intelligents** (Computer Vision avec OpenCV)
-Conception d’**interfaces graphiques** en Pygame et Tkinter
-Mise en place de **scripts d’automatisation** (web scraping, outils CLI, PDF/text mining)
-**Sécurité & chiffrement** avec cryptographie Fernet, gestion des secrets avec keyring
-Déploiement **cloud-ready** avec Render, CI/CD GitHub Actions et planification via cron
+Développement **full-stack** avec Flask, SQLAlchemy, et Bootstrap<br>
+Manipulation et visualisation de **données** avec Pandas, Matplotlib, Seaborn, Plotly<br>
+Modélisation en **Machine Learning** avec scikit-learn, clustering, classification supervisée<br>
+Création de **bots intelligents** (Computer Vision avec OpenCV)<br>
+Conception d’**interfaces graphiques** en Pygame et Tkinter<br>
+Mise en place de **scripts d’automatisation** (web scraping, outils CLI, PDF/text mining)<br>
+**Sécurité & chiffrement** avec cryptographie Fernet, gestion des secrets avec keyring<br>
+Déploiement **cloud-ready** avec Render, CI/CD GitHub Actions et planification via cron<br>
 
 🧩 Chaque jour a été une **brique ajoutée à un socle de compétences solides**, allant de l’écriture de code clair et modulaire, à l’optimisation de l’expérience utilisateur (UX), jusqu'au **déploiement de véritables applications web ou data-driven**.
 
