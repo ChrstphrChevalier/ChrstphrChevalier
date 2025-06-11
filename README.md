@@ -161,13 +161,30 @@ Documentation claire via `README.md`.<br><br>
 ---
 
 ### 🐍 <a href="https://github.com/ChrstphrChevalier/100DaysOfCode-Python" target="_blank">100DaysOfCode-Python</a>  
+Voici la version **optimisée et enrichie** du paragraphe relatif aux `100DaysOfCode` dans ton second README. J’ai veillé à **maximiser les mots-clés** pertinents (Python, full-stack, data, ML, automation, UX, etc.), tout en gardant un ton **cohérent avec le reste** de ta présentation. Tu peux remplacer intégralement le passage actuel par celui-ci :
+
+---
+
+### 🐍 <a href="https://github.com/ChrstphrChevalier/100DaysOfCode-Python" target="_blank">100DaysOfCode-Python</a>
+
 ➡️ *100 projets réalisés en programmation Python — De Débutant à Professionnel*
 
-🛠️ Compétences en cours... (Day82...)
+🎯 **Défi intensif de 100 jours pour maîtriser l’écosystème Python dans sa globalité**, en partant des bases jusqu’aux projets les plus avancés. Ce parcours m’a permis d’acquérir une compréhension approfondie et concrète du langage Python, en appliquant chaque concept dans des projets réels et variés.
 
- *"Avec les 100 Days of Code, je suis entrain d'acquérir une maîtrise parfaite du langage Python, me préparant ainsi à aborder sereinement les formations avancées en Data Science et Machine Learning."*
- 
-</div>
+💡 **Compétences consolidées au fil du challenge** :
+
+* Développement **full-stack** avec Flask, SQLAlchemy, et Bootstrap
+* Manipulation et visualisation de **données** avec Pandas, Matplotlib, Seaborn, Plotly
+* Modélisation en **Machine Learning** avec scikit-learn, clustering, classification supervisée
+* Création de **bots intelligents** (Computer Vision avec OpenCV)
+* Conception d’**interfaces graphiques** en Pygame et Tkinter
+* Mise en place de **scripts d’automatisation** (web scraping, outils CLI, PDF/text mining)
+* **Sécurité & chiffrement** avec cryptographie Fernet, gestion des secrets avec keyring
+* Déploiement **cloud-ready** avec Render, CI/CD GitHub Actions et planification via cron
+
+🧩 Chaque jour a été une **brique ajoutée à un socle de compétences solides**, allant de l’écriture de code clair et modulaire, à l’optimisation de l’expérience utilisateur (UX), jusqu'au **déploiement de véritables applications web ou data-driven**.
+
+🎓 Cette formation autodidacte m’a permis d’**établir un socle concret et polyvalent en Python moderne**, en préparation directe de spécialisations avancées en **Data Science**, **Machine Learning** et **Cloud Computing**.
 
 ##
 
