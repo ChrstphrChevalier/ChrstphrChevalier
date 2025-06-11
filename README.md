@@ -160,26 +160,44 @@ Documentation claire via `README.md`.<br><br>
 
 ---
 
-### 🐍 <a href="https://github.com/ChrstphrChevalier/100DaysOfCode-Python" target="_blank">100DaysOfCode-Python</a>
+### 🐍 [100DaysOfCode - Python](https://github.com/ChrstphrChevalier/100DaysOfCode-Python)
 
-➡️ *100 projets réalisés en programmation Python — De Débutant à Professionnel*
+**📅 100 projets Python – De Débutant à Professionnel**  
+Un défi intensif pour explorer en profondeur tout l’écosystème Python, de la syntaxe de base aux projets avancés.
 
-🎯 **Défi intensif de 100 jours pour maîtriser l’écosystème Python dans sa globalité**, en partant des bases jusqu’aux projets les plus avancés. Ce parcours m’a permis d’acquérir une compréhension approfondie et concrète du langage Python, en appliquant chaque concept dans des projets réels et variés.
+### 🎯 Objectif
 
-💡 **Compétences consolidées au fil du challenge** :
+Développer une **maîtrise concrète et globale de Python** à travers la pratique quotidienne :  
+des mini-projets techniques jusqu’au **déploiement d'applications complexes**, en Data Science, Web et DevOps.
 
-Développement **full-stack** avec Flask, SQLAlchemy, et Bootstrap<br>
-Manipulation et visualisation de **données** avec Pandas, Matplotlib, Seaborn, Plotly<br>
-Modélisation en **Machine Learning** avec scikit-learn, clustering, classification supervisée<br>
-Création de **bots intelligents** (Computer Vision avec OpenCV)<br>
-Conception d’**interfaces graphiques** en Pygame et Tkinter<br>
-Mise en place de **scripts d’automatisation** (web scraping, outils CLI, PDF/text mining)<br>
-**Sécurité & chiffrement** avec cryptographie Fernet, gestion des secrets avec keyring<br>
-Déploiement **cloud-ready** avec Render, CI/CD GitHub Actions et planification via cron<br>
+🧱 **Développement Full-stack**<br>
+Flask (routing, Blueprints), SQLAlchemy (ORM basique), Bootstrap (grilles, composants), HTML/CSS, gestion d’authentification et de formulaires.<br>
 
-🧩 Chaque jour a été une **brique ajoutée à un socle de compétences solides**, allant de l’écriture de code clair et modulaire, à l’optimisation de l’expérience utilisateur (UX), jusqu'au **déploiement de véritables applications web ou data-driven**.
+📊 **Analyse & Visualisation de Données**<br>
+Pandas (nettoyage, jointures, agrégations), Matplotlib & Seaborn (graphes classiques), Plotly (visualisations interactives), exploration de jeux de données réels.<br>
 
-🎓 Cette formation autodidacte m’a permis d’**établir un socle concret et polyvalent en Python moderne**, en préparation directe de spécialisations avancées en **Data Science**, **Machine Learning** et **Cloud Computing**.
+🤖 **Initiation au Machine Learning**<br>
+Découverte des principes fondamentaux avec un aperçu du **clustering non supervisé** (KMeans). Mise en bouche du ML pour préparer des apprentissages plus poussés en Data Science & IA.<br>
+
+🧠 **Computer Vision**<br>
+OpenCV (manipulation d’images, détection de visages, contours, filtres), traitement d’images statiques ou via webcam.<br>
+
+🖥️ **Interfaces Graphiques**<br>
+Création d’interfaces locales avec **Tkinter** (widgets, interaction) et mini-jeux/outils visuels avec **Pygame** (affichage dynamique, gestion d’événements).<br>
+
+⚙️ **Automatisation & Scripting**<br>
+Web scraping (BeautifulSoup, requests), scripts CLI avec `argparse`, extraction de texte depuis des fichiers PDF ou .txt, génération automatisée de contenu.<br>
+
+🔐 **Sécurité & Cryptographie**<br>
+Chiffrement/déchiffrement avec Fernet (cryptography), stockage sécurisé (keyring, dotenv), sensibilisation aux bonnes pratiques de gestion de secrets.<br>
+
+☁️ **Déploiement & CI/CD**<br>
+Déploiement sur Render, environnements virtuels, tests unitaires (pytest), automatisation de tâches.<br>
+### 🧩 Philosophie
+De l’écriture de **code modulaire** à la **création d’outils utiles**, jusqu’au **déploiement en conditions réelles**,  
+ce parcours a consolidé des une montée en compétences ciblée vers des domaines clés : **Python moderne**, **Data Science** & **Machine Learning**
+
+*"100 jours de code. 100 défis. 1 mission : transformer chaque erreur en leçon, chaque script en solution, chaque ligne en fondation d’un futur solide dans la tech."*
 
 ##
 
