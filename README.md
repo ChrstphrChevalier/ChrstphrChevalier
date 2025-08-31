@@ -9,21 +9,18 @@
 ## <p align="center">👤 À Propos de Moi 👤</p>
 
 <p align="center">
-  Animé par une passion profonde pour la technologie et un engagement constant vers l’excellence,  
-  j’ai choisi de faire du code un domaine d’apprentissage rigoureux et stimulant.  
-  <br><br>
-  Mon approche est fondée sur la recherche de compréhension, la précision et la construction de solutions réfléchies.  
-  À travers une formation continue, des expérimentations et des ajustements constants,  
-  je m'efforce de perfectionner mes compétences jour après jour.  
-  <br><br>
-  Chaque nouveau défi représente une occasion précieuse d’approfondir mes connaissances et d’élargir mon expertise.  
-  <br><br>
-  Mes domaines d'intérêt, tels que le **Cloud**, la **Data Science** et le **Machine Learning**,  
-  sont au cœur de mes ambitions professionnelles. Je souhaite m’y investir pleinement pour concevoir des solutions novatrices  
-  et apporter une réelle valeur ajoutée.  
-  <br><br>
-  Mon objectif ultime est de résoudre des problématiques complexes, créer des solutions efficientes  
-  et devenir un professionnel de confiance, technique et engagé.
+ Animé par une passion pour l’informatique et motivé par l’apprentissage par la pratique,  
+j’ai choisi de me spécialiser dans la construction de solutions Data et Cloud.  
+<br><br>
+Mon approche repose sur des projets concrets, accessibles sur mon GitHub, où je développe des pipelines de données,  
+des automatisations en Python, et des déploiements sur le Cloud (AWS, Azure).  
+Chaque projet est l’occasion de renforcer mes compétences et de livrer des résultats tangibles.  
+<br><br>
+Je maîtrise les outils essentiels du **Data Engineering** (Python, SQL, ETL, Docker) et m’ouvre progressivement  
+au **DevOps** (CI/CD, orchestration, monitoring) afin de bâtir des systèmes fiables et évolutifs.  
+<br><br>
+Mon objectif est clair : contribuer directement à des projets techniques en entreprise, apprendre sur le terrain,  
+et devenir un ingénieur données et cloud reconnu pour sa rigueur, son efficacité et sa capacité à livrer de la valeur.
 </p>
 
 ##
@@ -194,8 +191,8 @@ Chiffrement/déchiffrement avec Fernet (cryptography), stockage sécurisé (keyr
 ☁️ **Déploiement & CI/CD**<br>
 Déploiement sur Render, environnements virtuels, tests unitaires (pytest), automatisation de tâches.<br>
 ### 🧩 Philosophie
-De l’écriture de **code modulaire** à la **création d’outils utiles**, jusqu’au **déploiement en conditions réelles**,  
-ce parcours a consolidé des une montée en compétences ciblée vers des domaines clés : **Python moderne**, **Data Science** & **Machine Learning**
+De l’écriture de **code modulaire** à la **construction de pipelines de données** jusqu’au **déploiement sur le Cloud**,  
+ce parcours m’a permis d’acquérir des compétences ciblées dans des domaines clés : **Python moderne**, **SQL avancé**, **Data Engineering** & **Cloud Computing**.
 
 *"100 jours de code. 100 défis. 1 mission : transformer chaque erreur en leçon, chaque script en solution, chaque ligne en fondation d’un futur solide dans la tech."*
 
@@ -207,7 +204,9 @@ ce parcours a consolidé des une montée en compétences ciblée vers des domain
   <p>
     <a href="mailto:chrstphr.chevalier@gmail.com">chrstphr.chevalier@gmail.com</a><br><br>
     <a href="https://www.linkedin.com/in/christopher-chevalier-21bab7297" target="_blank" rel="noopener noreferrer">LinkedIn</a><br><br>
-    <em>💬 Je suis ouvert aux opportunités, collaborations ou échanges autour de la Tech, du Cloud, de la Data et du Machine Learning.<br>N'hésitez pas à me contacter !</em>
+    <em>💬 Ouvert aux opportunités et collaborations autour de la Tech, du Cloud et de l’Ingénierie des Données.<br>
+          N’hésitez pas à me contacter pour échanger ou collaborer.</em>
+</em>
   </p>
 </div>
 
