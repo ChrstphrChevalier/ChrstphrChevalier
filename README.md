@@ -204,7 +204,7 @@ ce parcours m’a permis d’acquérir des compétences ciblées dans des domain
   <p>
     <a href="mailto:chrstphr.chevalier@gmail.com">chrstphr.chevalier@gmail.com</a><br><br>
     <a href="https://www.linkedin.com/in/christopher-chevalier-21bab7297" target="_blank" rel="noopener noreferrer">LinkedIn</a><br><br>
-    <em>💬 Ouvert aux opportunités et collaborations autour de la Tech, du Cloud et de l’Ingénierie Logiciels.<br>
+    <em>💬 Ouvert aux opportunités et collaborations autour de la Tech, du Cloud et de l’Ingénierie Data & Logiciels.<br>
           N’hésitez pas à me contacter pour échanger ou collaborer.</em>
 </em>
   </p>
