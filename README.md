@@ -10,17 +10,17 @@
 
 <p align="center">
 Animé par une passion pour l’informatique et motivé par l’apprentissage par la pratique,  
-j’ai choisi de me spécialiser dans le développement logiciel et les environnements Cloud/DevOps.  
+j’ai choisi de me spécialiser dans le développement logiciel, la Data et les environnements Cloud/DevOps.  
 <br><br>
-Mon approche repose sur des projets concrets, accessibles sur mon GitHub, où je développe en C, C++ et Python,  
-j’automatise des workflows et je déploie des applications conteneurisées sur le Cloud (AWS, Azure).  
-Chaque projet est l’occasion de renforcer mes compétences et de livrer des résultats tangibles.  
+Je développe en <b>C, C++ et Python</b>, je conçois des scripts et pipelines de données,  
+j’automatise des workflows et je déploie des applications conteneurisées sur le Cloud (<b>AWS, Azure</b>).  
 <br><br>
-Je maîtrise les outils essentiels du **développement et de l’administration systèmes** (C, C++, Python, Linux, Docker)  
-et je consolide mon expertise en **Cloud & DevOps** (CI/CD, orchestration, monitoring) afin de bâtir des environnements fiables et évolutifs.  
+Je maîtrise les outils essentiels du <b>développement, de l’administration systèmes et de la data</b>  
+(Python/pandas, SQL, Linux, Docker, scripting Bash) et je consolide mon expertise en <b>Cloud & DevOps</b>  
+(CI/CD, orchestration, monitoring) pour bâtir des environnements fiables et évolutifs.  
 <br><br>
-Mon objectif est clair : contribuer directement à des projets techniques en entreprise, apprendre sur le terrain,  
-et devenir un ingénieur logiciel / DevOps reconnu pour sa rigueur, son efficacité et sa capacité à livrer de la valeur.
+🎯 Mon objectif : contribuer à des projets techniques en entreprise, apprendre sur le terrain  
+et évoluer comme <b>développeur logiciel, data engineer, ingénieur DevOps ou cloud</b>.
 </p>
 
 ##
